@@ -1,4 +1,5 @@
 # Input-Invex-Neural-Network
+[Paper](https://arxiv.org/abs/2106.08748)
 
 ### Supplementary Material
 
