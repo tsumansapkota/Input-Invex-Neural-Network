@@ -47,6 +47,17 @@ class Bandpass(nn.Module):
         return xm
 
 
+class DistanceRegressor(nn.Module):
+    def __init__(self, input_dim, inv_temp=1):
+        super().__init__()
+        self.centers = nn.Parameter(torch.rand(1, input_dim)*2-1)
+        self.bias = nn.Parameter(torch.ones(1)*0.5)
+        self.inv_temp = nn.Parameter(torch.ones(1)*1.0*np.log(inv_temp))
+
+    def forward(self, x):
+        x = torch.norm(x-self.centers, dim=1, keepdim=True)
+        x = -x*torch.exp(self.inv_temp) + self.bias
+        return x
 
 
 class ConvexNN(nn.Module):

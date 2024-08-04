@@ -1,0 +1,5 @@
+{
+"model": "expX_fmnist_inv_cLin_2",
+"test_acc": 89.61,
+"hard_test_acc": 89.4
+}

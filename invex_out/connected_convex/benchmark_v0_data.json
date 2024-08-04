@@ -1,0 +1,66 @@
+{
+"./invex_out/08.1_convex_invex/expv0_convex_N3": {
+"acc": 0.6508728265762329,
+"hard_acc": 0.6483790874481201
+},
+"./invex_out/08.1_convex_invex/expv0_invex_N3": {
+"acc": 0.990024983882904,
+"hard_acc": 0.8927680850028992
+},
+"./invex_out/08.1_convex_invex/expv0_convex_N5": {
+"acc": 0.8628429174423218,
+"hard_acc": 0.7581047415733337
+},
+"./invex_out/08.1_convex_invex/expv0_invex_N5": {
+"acc": 1.0,
+"hard_acc": 0.8952618837356567
+},
+"./invex_out/08.1_convex_invex/expv0_convex_N7": {
+"acc": 0.8902743458747864,
+"hard_acc": 0.8753117322921753
+},
+"./invex_out/08.1_convex_invex/expv0_invex_N7": {
+"acc": 1.0,
+"hard_acc": 1.0
+},
+"./invex_out/08.1_convex_invex/expv0_convex_N9": {
+"acc": 0.9825436472892761,
+"hard_acc": 0.8827930688858032
+},
+"./invex_out/08.1_convex_invex/expv0_invex_N9": {
+"acc": 1.0,
+"hard_acc": 1.0
+},
+"./invex_out/08.1_convex_invex/expv0_convex_N11": {
+"acc": 0.9825436472892761,
+"hard_acc": 0.9127182364463806
+},
+"./invex_out/08.1_convex_invex/expv0_invex_N11": {
+"acc": 1.0,
+"hard_acc": 1.0
+},
+"./invex_out/08.1_convex_invex/expv0_convex_N13": {
+"acc": 0.9975062608718872,
+"hard_acc": 0.9975062608718872
+},
+"./invex_out/08.1_convex_invex/expv0_invex_N13": {
+"acc": 1.0,
+"hard_acc": 1.0
+},
+"./invex_out/08.1_convex_invex/expv0_convex_N15": {
+"acc": 0.9975062608718872,
+"hard_acc": 0.9975062608718872
+},
+"./invex_out/08.1_convex_invex/expv0_invex_N15": {
+"acc": 1.0,
+"hard_acc": 1.0
+},
+"./invex_out/08.1_convex_invex/expv0_convex_N17": {
+"acc": 0.9975062608718872,
+"hard_acc": 0.9975062608718872
+},
+"./invex_out/08.1_convex_invex/expv0_invex_N17": {
+"acc": 1.0,
+"hard_acc": 1.0
+}
+}

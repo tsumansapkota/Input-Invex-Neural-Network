@@ -1,0 +1,5 @@
+{
+"model": "expX_cifar100_ord_mlp_1",
+"test_acc": 57.42,
+"hard_test_acc": -1
+}

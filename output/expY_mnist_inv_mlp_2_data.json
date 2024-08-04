@@ -1,0 +1,5 @@
+{
+"model": "expY_mnist_inv_mlp_2",
+"test_acc": 98.39,
+"hard_test_acc": -1
+}

@@ -1,0 +1,5 @@
+{
+"model": "expX_cifar10_inv_lin_1",
+"test_acc": 87.92,
+"hard_test_acc": -1
+}
